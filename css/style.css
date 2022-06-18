@@ -1,5 +1,5 @@
 body{
-    background:;
+    color:#666;
 }
 header{
     height: 64px;
@@ -43,7 +43,6 @@ background-size: cover;
 }
 
 .splash h1{
-   
     background: black;
     color: whitesmoke;
     display: inline-block;
@@ -57,4 +56,7 @@ background-size: cover;
     background: #81BA43;
     color: white;
     
+}
+.content{
+    padding: 10px;
 }
