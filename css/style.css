@@ -47,7 +47,7 @@ nav ul a{
 .splash{
     width: 100%;
     height: 100vh;
-background: url('/images/fondo.png') no-repeat  fixed;
+background: url('https://art.pixilart.com/aa5f785be03ca1b.png')  center center no-repeat  fixed;
 background-size: cover;
 
 }
